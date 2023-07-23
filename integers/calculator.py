@@ -20,3 +20,5 @@ prevent creating the z variable by using the + operator inside the print functio
 
 #you can even do this:
 print(int(input("What is x?: ")) + int(input("What is y?: ")))
+
+# be careful and don't nest too many things inside each other for clearity and readability
