@@ -10,11 +10,14 @@ def main():
     hello(name)
 
 
+"""
 # use def to define a function and define a parameter within ()
 # def hello(to_whom):
     # print "Hello, " + to_whom + (end parameter=)"!"
     # and separated by (separator parameter=)""
-    # print("Hello, ", to_whom, "!", sep="")
+    print("Hello, ", to_whom, "!", sep="")
+"""
+
 
 # use def to define a function and use default value for parameter using =
 def hello(to_whom="World"):
